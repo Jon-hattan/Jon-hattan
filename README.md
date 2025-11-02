@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there, I'm Jonathan!
 
-<!--
-**Jon-hattan/Jon-hattan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Casual builder. I love building tools that make complex tasks more efficient and accessible through intelligent automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+### [Intelligent Rebar Detailing](https://github.com/Jon-hattan/Intelligent-Rebar-Detailing)
+A Python application that revolutionizes structural engineering workflows by automating floor plan analysis and optimizing rebar detailing using computer vision, engineering rules, and an interactive GUI. Built for Jacobs International Consultants.
+
+### [AI Chatbot for Bookings](https://github.com/Jon-hattan/Chatbot-project)
+An AI-powered chatbot that streamlines customer bookings using LangChain and Google Sheets. Enables natural conversations for checking availability, booking appointments, and receiving instant confirmations. Built for enrichment class provider 555BeatboxSG.
+
+### [Engineering Automations](https://github.com/Jon-hattan/Engineering-Automations)
+A comprehensive repository of UIPath automations tailored for project engineering companies to enhance productivity and reduce manual work. Built for Jacobs International Consultants.
+
+## Technologies & Tools
+
+- **Languages**: Python, C, Java, HTML, CSS
+- **AI**: LangChain, OpenCV
+- **Others**: UIPath
+
+
+## Get in Touch
+
+Feel free to explore my repositories and reach out if you'd like to collaborate on automation or AI projects!
+
+---
+
