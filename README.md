@@ -6,7 +6,7 @@ Casual builder. I love building tools that make complex tasks more efficient and
 
 ## Featured Projects
 
-### [SGX Assistant](https://github.com/Jon-hattan/SGX-Assistant))
+### [SGX Assistant](https://github.com/Jon-hattan/SGX-Assistant)
 An end-to-end SGX announcements scraper and AI assistant that automates data collection from SGX announcements and builds a RAG system on top of the documents using Google Gemini’s File Search API. It is currently tested on Keppel DC REIT (2018–2025).
 
 ### [Intelligent Rebar Detailing](https://github.com/Jon-hattan/Intelligent-Rebar-Detailing)
